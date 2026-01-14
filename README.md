@@ -1,6 +1,10 @@
 <div align="center" width="50">
+<div align="center">
+
 [![GitHub](https://img.shields.io/badge/Yousef%20Wael-grey?style=flat&logo=github)](https://github.com/YousefElgzar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yousef%20Wael-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yousef-wael-34b037378)
+
+</div>
 
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Robots" width="60%"/> <br>
