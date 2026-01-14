@@ -31,43 +31,48 @@ This experience was especially valuable when my college required a project for t
 ## 🧰 Skills & Technologies
 
 ### 🔧 Robotics & Embedded
-- Arduino  
-- ESP32  
-- Raspberry Pi  
-- Sensors & Actuators  
-- Motor Control  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-black?style=flat&logo=espressif)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
 
 ### 💻 Programming Languages
-- C  
-- C++  
-- Python  
-- Java  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### 🧠 Software & Tools
-- ROS (Robot Operating System)  
-- OpenCV (Basic)  
-- Linux  
-- Git & GitHub  
-- Visual Studio Code  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv)
 
 ---
 
-```cpp
-// Personal robotics stack overview
+## 📌 Currently
+- 🔭 Working on **Robotics and Embedded Systems projects**
+- 🌱 Learning **ROS and advanced robotics concepts**
+- 🧩 Improving problem-solving and logical design skills
+- 💬 Ask me about **Robotics, Arduino, or Embedded C/C++**
 
-class Yousef_Wael {
-public:
-    string role = "Robotics & Embedded Systems Developer";
+---
 
-    vector<string> programming_languages = {
-        "C", "C++", "Python", "Java"
-    };
+## ⚡ Fun Fact
+> Robots don’t fail —  
+> **They just help you discover bugs in real life 🤖**
 
-    vector<string> robotics_skills = {
-        "Embedded Systems",
-        "Microcontrollers",
-        "Logical Design",
-        "Sensors Integration",
-        "Motor Control"
-    };
-};
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YousefElgzar&show_icons=true&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefElgzar&layout=compact&theme=tokyonight" width="48%"/>
+
+</div>
