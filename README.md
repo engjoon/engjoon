@@ -4,7 +4,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" />
 
 <h1>I AM YOUSEF WAEL 🤖</h1>
-<h3>Robotics & Embedded Systems Developer</h3>
+<h3>Robotics & Embedded Systems Developer | AI Student | Problem Solver</h3>
 
 [![GitHub](https://img.shields.io/badge/Yousef%20Wael-grey?style=flat&logo=github)](https://github.com/YousefElgzar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yousef%20Wael-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yousef-wael-34b037378)
@@ -15,9 +15,9 @@
 
 ## 🚀 About Me
 🤖 Robotics Programmer and Embedded Systems Developer  
+🧠 AI Student & Problem Solver  
 🔌 Passionate about combining **hardware and software** to build intelligent systems  
-🧠 Interested in **Robotics, Control Systems, and Autonomous Systems**  
-⚙️ Enjoy working on real-world engineering problems
+⚙️ Enjoy working on real-world engineering problems  
 
 ---
 
@@ -47,6 +47,10 @@ This experience was especially valuable when my college required a project for t
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
+### 🤖 AI & Problem Solving
+![AI](https://img.shields.io/badge/AI-00C2FF?style=flat&logo=artificial-intelligence)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF5722?style=flat&logo=brain&logoColor=white)
+
 ### 🧠 Software & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
@@ -57,10 +61,10 @@ This experience was especially valuable when my college required a project for t
 ---
 
 ## 📌 Currently
-- 🔭 Working on **Robotics and Embedded Systems projects**
-- 🌱 Learning **ROS and advanced robotics concepts**
-- 🧩 Improving problem-solving and logical design skills
-- 💬 Ask me about **Robotics, Arduino, or Embedded C/C++**
+- 🔭 Working on **Robotics and Embedded Systems projects**  
+- 🌱 Learning **AI & ROS for Autonomous Systems**  
+- 🧩 Practicing **Problem Solving & Logical Design**  
+- 💬 Ask me about **Robotics, AI, Arduino, or Embedded C/C++**
 
 ---
 
