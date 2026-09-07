@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 🤖 Robotics Programmer and Embedded Systems Developer  
-🧠 AI Student & Problem Solver  
+🧠 AI Student & Problem Solver & Flutter Developer
 🔌 Passionate about combining **hardware and software** to build intelligent systems  
 ⚙️ Enjoy working on real-world engineering problems  
 
